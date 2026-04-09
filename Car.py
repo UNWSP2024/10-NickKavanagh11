@@ -48,3 +48,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+Accelerating:
+Speed after acceleration 1: 5
+Speed after acceleration 2: 10
+Speed after acceleration 3: 15
+Speed after acceleration 4: 20
+Speed after acceleration 5: 25
+
+Braking:
+Speed after brake 1: 20
+Speed after brake 2: 15
+Speed after brake 3: 10
+Speed after brake 4: 5
+Speed after brake 5: 0
