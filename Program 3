@@ -1,0 +1,27 @@
+Start
+  ↓
+Initialize Car Object
+  ↓
+Set year_model, make
+  ↓
+Set speed = 0
+  ↓
+End
+
+Start → speed = speed + 5 → End
+
+Start → speed = speed - 5 → End
+
+Start
+  ↓
+Create Car Object
+  ↓
+Loop 5 times:
+    Call accelerate
+    Display speed
+  ↓
+Loop 5 times:
+    Call brake
+    Display speed
+  ↓
+End
